@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-console-table",
+  "version": "1.0.5",
+  "description": "This module is useful for creating tables with string data types from data objects-in-arrays javascript/nodejs in console or terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kintaroazurachaniago/nodejs-console-table.git"
+  },
+  "keywords": ["nodejs", "console", "table", "indonesia", "bengkulu"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kintaroazurachaniago/nodejs-console-table/issues"
+  },
+  "homepage": "https://github.com/kintaroazurachaniago/nodejs-console-table#readme"
+}
